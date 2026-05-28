@@ -1,7 +1,7 @@
 # spotify-charts-eda
 ### Spotify Charts EDA
 ### Dataset
-Spotify Weeekly Album Charts - 24,675 albums
+Spotify Weekly Album Charts - 24,675 albums
 
 ### Questions explored
 1. Which artist appear most on spotify charts?
@@ -11,7 +11,7 @@ Spotify Weeekly Album Charts - 24,675 albums
 ### Key Findings
 - Various artists,A.R.Rahman and bts top the artist charts
 - Album releases exploded post-2000 with the rise of streaming
-- Sony Muisc Entertainment is the dominant record label globally
+- Sony Music Entertainment is the dominant record label globally
 
 ### Tools Used
 Python, Pandas,Matplotlib,Seaborn
